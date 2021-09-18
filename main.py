@@ -12,11 +12,13 @@ print("""  _____  _____   _____                   _                            _
 
 print()
 
-print("Hi There, this is the first version of PIS Automation. \n\n\n**Read Me** \n--> Chromedriver is a must have to run this application and is included with the package.\n--> The locations for both chromedriver and excel file are fixed at this point but will be editable in coming versions.\n--> The script updates the daily time card, all you have to do is update the excel sheet daily.\n--> Save it and run this script.\n\n\n Thank you and enjoy!!! \n - Tanmay Sheoran")
+print("Hi There, this is the first version of PIS Automation. \n\n\n**Read Me** \n--> Chromedriver is a must have to run this application and is included with the package.\n--> If an error is thrown due to chromedriver version and replace it with the one inside the folder (with the same name), download the same chromedriver version as your browser,\n    go to: https://chromedriver.chromium.org/downloads \n--> The locations for both chromedriver and excel file are fixed at this point but will be editable in coming versions.\n--> The script updates the daily time card, all you have to do is update the excel sheet daily.\n--> Save it and run this script.")
+print("\nThank you and enjoy!!! \n - Tanmay Sheoran")
+print("\nLook at my other projects : https://github.com/tanmaysheoran")
 
-print(50 * ("-"))
+print(100 * ("-"))
 print("Let's Begin")
-print("\n\n")
+print("\n")
 while True:
     print("At any time if you want to quit, enter Q")
     print()
